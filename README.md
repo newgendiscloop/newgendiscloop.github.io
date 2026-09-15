@@ -1,3 +1,3 @@
-# neurips2026-mlil.github.io
+# newgendiscloop.github.io
 
-NeurIPS 2026 Machine Learning in the Loop for Decision Making and Discovery Workshop
+ELLIS Unconference: Workshop on New Generation of Discovery Loops 
