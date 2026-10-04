@@ -121,7 +121,7 @@ All accepted submissions will be showcased in the poster session.
     <td style="text-align:center"><img src="assets/img/speaker-yee-why-teh-square.png" height="150" width="150"></td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=uF6H9jMAAAAJ&hl=en">Samuel Kaski</a> <br> Professor <br> Aalto University; University of Manchester </td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=uF6H9jMAAAAJ&hl=en">Samuel Kaski</a> <br> Professor <br> Aalto University; <br> University of Manchester </td>
     <td style="text-align:center"><a href="https://www.stats.ox.ac.uk/people/chris-holmes">Chris Holmes</a> <br> Professor <br> University of Oxford </td>
     <td style="text-align:center"><a href="https://scholar.google.com/citations?user=y-nUzMwAAAAJ&hl=en">Yee Whye Teh</a> <br> Professor <br> University of Manchester </td>
   </tr>
@@ -145,14 +145,14 @@ All accepted submissions will be showcased in the poster session.
 
 <table style="width:100%">
   <tr>
-    <td style="text-align:center"><img src="assets/img/speaker-ola-engkvist.jpg" height="150" width="150"></td>
-    <td style="text-align:center"><img src="assets/img/org-magnus-rattray-square.jpg" height="150" width="150"></td>
-    <td style="text-align:center"><img src="assets/img/org-riccardo-de-santi.png" height="150" width="150"></td>
+    <td style="text-align:center"> <img src="assets/img/speaker-ola-engkvist.jpg" height="150" width="150"> <br> ELLIS ML for Molecule <br> Discovery program <br> <br> </td>
+    <td style="text-align:center"><img src="assets/img/org-magnus-rattray-square.jpg" height="150" width="150"> <br> ELLIS Health program <br> <br> <br></td>
+    <td style="text-align:center"><img src="assets/img/org-riccardo-de-santi.png" height="150" width="150"> <br> ELLIS Interative Learning and <br> Interventional Representation <br> program </td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=YJnPv6kAAAAJ&hl=en">Ola Engqvist</a> <br> ELLIS ML for Molecule Discovery program; Head Molecular AI, AstraZeneca  </td>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=FyB7r1IAAAAJ&hl=en">Magnus Rattray</a> <br> ELLIS Health program; Professor, University of Manchester </td>
-    <td style="text-align:center"><a href="https://www.riccardodesanti.com">Riccardo De Santi</a> <br> ELLIS Interative Learning and Interventional Representation program; PhD researcher, ETH Zurich </td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=YJnPv6kAAAAJ&hl=en">Ola Engqvist</a> <br> Head Molecular AI <br> AstraZeneca  </td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=FyB7r1IAAAAJ&hl=en">Magnus Rattray</a> <br> Professor <br> University of Manchester </td>
+    <td style="text-align:center"><a href="https://www.riccardodesanti.com">Riccardo De Santi</a> <br> PhD researcher <br> ETH Zurich </td>
   </tr>
 </table>
 
