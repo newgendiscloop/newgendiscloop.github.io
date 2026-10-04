@@ -114,9 +114,9 @@ All accepted submissions will be showcased in the poster session.
     <td style="text-align:center"><img src="assets/img/speaker-yee-why-teh-square.png" height="150" width="150"></td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=uF6H9jMAAAAJ&hl=en">Samuel Kaski</a> <br> Professor <br> Aalto University; <br> University of Manchester </td>
-    <td style="text-align:center"><a href="https://www.stats.ox.ac.uk/people/chris-holmes">Chris Holmes</a> <br> Professor <br> University of Oxford </td>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=y-nUzMwAAAAJ&hl=en">Yee Whye Teh</a> <br> Professor <br> University of Oxford </td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=uF6H9jMAAAAJ&hl=en">Samuel Kaski</a> <br> Professor <br> University of Manchester <br> Aalto University <br> ELLIS Institute Finland </td>
+    <td style="text-align:center"><a href="https://www.stats.ox.ac.uk/people/chris-holmes">Chris Holmes</a> <br> Professor <br> University of Oxford <br> The Alan Turing Institute </td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=y-nUzMwAAAAJ&hl=en">Yee Whye Teh</a> <br> Professor <br> University of Oxford <br> Deepmind </td>
   </tr>
 </table>
 
@@ -148,7 +148,7 @@ All accepted submissions will be showcased in the poster session.
     <td style="text-align:center"><img src="assets/img/org-riccardo-de-santi.jpg" height="150" width="150"> </td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=YJnPv6kAAAAJ&hl=en">Ola Engqvist</a> <br> Head Molecular AI <br> AstraZeneca  </td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=YJnPv6kAAAAJ&hl=en">Ola Engqvist</a> <br> Head Molecular AI <br> AstraZeneca <br> Chalmers Univ. of Tech.  </td>
     <td style="text-align:center"><a href="https://scholar.google.com/citations?user=FyB7r1IAAAAJ&hl=en">Magnus Rattray</a> <br> Professor <br> University of Manchester </td>
     <td style="text-align:center"><a href="https://www.riccardodesanti.com">Riccardo De Santi</a> <br> PhD researcher <br> ETH Zurich </td>
   </tr>
