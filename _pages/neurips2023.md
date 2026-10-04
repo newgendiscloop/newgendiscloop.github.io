@@ -114,8 +114,8 @@ All accepted submissions will be showcased in the poster session.
 <table style="width:100%">
   <tr>
     <td style="text-align:center"><img src="assets/img/org-samuel-kaski.jpg" height="150" width="150"></td>
-    <td style="text-align:center"><img src="assets/img/org-chris-holmes.webp" height="170" width="170"></td>
-    <td style="text-align:center"><img src="assets/img/speaker-yee-why-teh-square.png" height="170" width="170"></td>
+    <td style="text-align:center"><img src="assets/img/org-chris-holmes.webp" height="150" width="150"></td>
+    <td style="text-align:center"><img src="assets/img/speaker-yee-why-teh-square.png" height="150" width="150"></td>
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://scholar.google.com/citations?user=uF6H9jMAAAAJ&hl=en">Samuel Kaski</a> <br> Professor <br> Aalto University, Finland <br> University of Manchester, UK </td>
@@ -142,9 +142,9 @@ All accepted submissions will be showcased in the poster session.
 
 <table style="width:100%">
   <tr>
-    <td style="text-align:center"><img src="assets/img/speaker-ola-engkvist.jpg" height="170" width="170"></td>
-    <td style="text-align:center"><img src="assets/img/org-magnus-rattray-square.jpg" height="170" width="170"></td>
-    <td style="text-align:center"><img src="assets/img/org-riccardo-de-santi.png" height="170" width="170"></td>
+    <td style="text-align:center"><img src="assets/img/speaker-ola-engkvist.jpg" height="150" width="150"></td>
+    <td style="text-align:center"><img src="assets/img/org-magnus-rattray-square.jpg" height="150" width="150"></td>
+    <td style="text-align:center"><img src="assets/img/org-riccardo-de-santi.png" height="150" width="150"></td>
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://scholar.google.com/citations?user=YJnPv6kAAAAJ&hl=en">Ola Engqvist</a> <br> ELLIS ML for Molecule Discovery program <br> Head Molecular AI, AstraZeneca  </td>
