@@ -99,11 +99,11 @@ All accepted submissions will be showcased in the poster session.
     <td style="text-align:center"><img src="assets/img/speaker-aldo-faisal-resize.jpg" height="170" width="170"></td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=8200InoAAAAJ&hl=fr&oi=sra">Max Welling</a> <br> Professor, University of Amsterdam <br> [WQ1 & WQ3] <br>  </bar><strong>(confirmed)</strong> </td>    
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=ieLRNKMAAAAJ&hl=en">Tom Rainforth</a> <br> Professor, University of Oxford <br> <br> [WQ1 & WQ2] <strong>(confirmed)</strong> </td>    
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=iswtssoAAAAJ&hl=fr&oi=ao">Andrew Howes</a> <br> Professor, University of Exeter <br> [WQ3] <br> <strong>(confirmed)</strong> </td>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=2BeLFVwAAAAJ&hl=en">Anna Scaife</a> <br> Professor, University of Manchester <br> [WQ1] <br> <strong>(confirmed)</strong> </td>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=WjHjbrwAAAAJ&hl=en">Aldo Faisal</a> <br> Professor, Imperial College London <br> [WQ1 & WQ2] <br> <strong>(tentative)</strong> </td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=8200InoAAAAJ&hl=fr&oi=sra">Max Welling</a> <br> Professor, University of Amsterdam <br> <strong>[WQ1 & WQ3] <br> (confirmed)</strong> </td>    
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=ieLRNKMAAAAJ&hl=en">Tom Rainforth</a> <br> Professor, University of Oxford <br> <strong>[WQ1 & WQ2] <br> (confirmed)</strong> </td>    
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=iswtssoAAAAJ&hl=fr&oi=ao">Andrew Howes</a> <br> Professor, University of Exeter <br> <strong>[WQ3] <br> (confirmed) </strong> </td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=2BeLFVwAAAAJ&hl=en">Anna Scaife</a> <br> Professor, University of Manchester <br> <strong>[WQ1] <br> (confirmed)</strong> </td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=WjHjbrwAAAAJ&hl=en">Aldo Faisal</a> <br> Professor, Imperial College London <br> <strong> [WQ1 & WQ2] <br> (tentative)</strong> </td>
   </tr>
 </table>
 
@@ -118,9 +118,9 @@ All accepted submissions will be showcased in the poster session.
     <td style="text-align:center"><img src="assets/img/speaker-yee-why-teh-square.png" height="150" width="150"></td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=uF6H9jMAAAAJ&hl=en">Samuel Kaski</a> <br> Professor <br> Aalto University, Finland <br> University of Manchester, UK </td>
-    <td style="text-align:center"><a href="https://www.stats.ox.ac.uk/people/chris-holmes">Chris Holmes</a> <br> Professor <br> University of Oxford, UK </td>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=y-nUzMwAAAAJ&hl=en">Yee Whye Teh</a> <br> Professor <br> University of Manchester, UK </td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=uF6H9jMAAAAJ&hl=en">Samuel Kaski</a> <br> Professor <br> Aalto University; University of Manchester </td>
+    <td style="text-align:center"><a href="https://www.stats.ox.ac.uk/people/chris-holmes">Chris Holmes</a> <br> Professor <br> University of Oxford </td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=y-nUzMwAAAAJ&hl=en">Yee Whye Teh</a> <br> Professor <br> University of Manchester </td>
   </tr>
 </table>
 
@@ -132,9 +132,9 @@ All accepted submissions will be showcased in the poster session.
     <td style="text-align:center"><img src="assets/img/org-jaeyoung-lee-square.jpg" height="150"  width="150"></td> 
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?hl=en&user=50ErN80AAAAJ">Haripriya Harikumar</a> <br> Research Fellow <br> University of Manchester, UK</td>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=vv-leaMAAAAJ&hl=en">Dmitry Kangin</a> <br> Research Fellow <br> University of Manchester, UK </td>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=Zh7PeGUAAAAJ&hl=en&oi=sra">Jaeyoung Lee</a> <br> Research Fellow <br> University of Manchester, UK</td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?hl=en&user=50ErN80AAAAJ">Haripriya Harikumar</a> <br> Research Fellow <br> University of Manchester </td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=vv-leaMAAAAJ&hl=en">Dmitry Kangin</a> <br> Research Fellow <br> University of Manchester </td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=Zh7PeGUAAAAJ&hl=en&oi=sra">Jaeyoung Lee</a> <br> Research Fellow <br> University of Manchester </td>
   </tr>
 </table>
 
@@ -147,9 +147,9 @@ All accepted submissions will be showcased in the poster session.
     <td style="text-align:center"><img src="assets/img/org-riccardo-de-santi.png" height="150" width="150"></td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=YJnPv6kAAAAJ&hl=en">Ola Engqvist</a> <br> ELLIS ML for Molecule Discovery program <br> Head Molecular AI, AstraZeneca  </td>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=FyB7r1IAAAAJ&hl=en">Magnus Rattray</a> <br> ELLIS Health program <br> Professor, University of Manchester, UK </td>
-    <td style="text-align:center"><a href="https://www.riccardodesanti.com">Riccardo De Santi</a> <br> ELLIS Interative Learning and <br> Interventional Representation program <br> PhD researcher, ETH Zurich </td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=YJnPv6kAAAAJ&hl=en">Ola Engqvist</a> <br> ELLIS ML for Molecule Discovery program; Head Molecular AI, AstraZeneca  </td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=FyB7r1IAAAAJ&hl=en">Magnus Rattray</a> <br> ELLIS Health program; Professor, University of Manchester </td>
+    <td style="text-align:center"><a href="https://www.riccardodesanti.com">Riccardo De Santi</a> <br> ELLIS Interative Learning and Interventional Representation program; PhD researcher, ETH Zurich </td>
   </tr>
 </table>
 
