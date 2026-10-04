@@ -37,10 +37,6 @@ The key dates are as follows.
 - Submission deadline: <span style="color:red"> [tentative] </span> Oct 30th 2026 (anywhere on earth) 
 - Author notification: <span style="color:red"> [tentative] </span> Nov 7th 2026 (anywhere on earth)
 
-[//]: # (<span style="color:red"> tbc </span>)
-[//]: # (Oct 30th 2026 &#40;anywhere on earth&#41;)
-[//]: # (Nov 7th 2026 &#40;anywhere on earth&#41;)
-
 All accepted submissions will be showcased in the poster session.
 
 ### **Program Schedule**
@@ -88,11 +84,6 @@ All accepted submissions will be showcased in the poster session.
     </tbody>
 </table>
 
-[//]: # (        <tr>)
-[//]: # (            <td style="text-align: center; padding: 4px 8px;"> 15 mins </td>)
-[//]: # (            <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;">Invited talk 5: Aldo Faisal <span style="color:red"> </span> </td>)
-[//]: # (        </tr>)
-
 ### **Speakers**
 
 <table style="width:100%">
@@ -101,18 +92,12 @@ All accepted submissions will be showcased in the poster session.
     <td style="text-align:center"><img src="assets/img/speaker-tom-rainforth-square.jpg" height="170" width="170"></td>    
     <td style="text-align:center"><img src="assets/img/speaker-andrew-howes.jpeg" height="170" width="170"></td>
     <td style="text-align:center"><img src="assets/img/speaker-anna_scaife-square.jpg" height="170" width="170"></td>
-
-[//]: # (    <td style="text-align:center"><img src="assets/img/speaker-aldo-faisal-resize.jpg" height="170" width="170"></td>)
-  
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://scholar.google.com/citations?user=8200InoAAAAJ&hl=fr&oi=sra">Max Welling</a> <br> Professor, University of Amsterdam <br> <strong>[WQ1 & WQ3] </strong> </td>    
     <td style="text-align:center"><a href="https://scholar.google.com/citations?user=ieLRNKMAAAAJ&hl=en">Tom Rainforth</a> <br> Professor, University of Oxford <br> <strong>[WQ1 & WQ2] </strong> </td>    
     <td style="text-align:center"><a href="https://scholar.google.com/citations?user=iswtssoAAAAJ&hl=fr&oi=ao">Andrew Howes</a> <br> Professor, University of Exeter <br> <strong>[WQ3]  </strong> </td>
     <td style="text-align:center"><a href="https://scholar.google.com/citations?user=2BeLFVwAAAAJ&hl=en">Anna Scaife</a> <br> Professor, University of Manchester <br> <strong>[WQ1] </strong> </td>
-
-[//]: # (    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=WjHjbrwAAAAJ&hl=en">Aldo Faisal</a> <br> Professor, Imperial College London <br> <strong> [WQ1 & WQ2] </strong> </td>)
-  
   </tr>
 </table>
 
@@ -161,28 +146,3 @@ All accepted submissions will be showcased in the poster session.
     <td style="text-align:center"><a href="https://www.riccardodesanti.com">Riccardo De Santi</a> <br> PhD researcher <br> ETH Zurich </td>
   </tr>
 </table>
-
-[//]: # (<table style="width:100%">)
-[//]: # (  <tr>)
-[//]: # (    <td style="text-align:center"><img src="assets/img/org-samuel-kaski.jpg" height="150" width="150"></td>)
-[//]: # (    <td style="text-align:center"><img src="assets/img/speaker-ola-engkvist.jpg" height="170" width="170"></td>)
-[//]: # (    <td style="text-align:center"><img src="assets/img/org-chris-holmes.webp" height="170" width="170"></td>)
-[//]: # (    <td style="text-align:center"><img src="assets/img/speaker-yee-why-teh-square.png" height="170" width="170"></td>)
-[//]: # (  </tr>)
-[//]: # (  <tr>)
-[//]: # (    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=uF6H9jMAAAAJ&hl=en">Samuel Kaski</a> <br> ELLIS Robust ML program </td>)
-[//]: # (    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=YJnPv6kAAAAJ&hl=en">Ola Engqvist</a> <br> ELLIS ML for Molecule Discovery program  </td>)
-[//]: # (    <td style="text-align:center"><a href="https://www.stats.ox.ac.uk/people/chris-holmes">Chris Holmes</a> <br> ELLIS Robust ML program </td>)
-[//]: # (    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=y-nUzMwAAAAJ&hl=en">Yee Whye Teh</a> <br> ELLIS Robust ML program </td>)
-[//]: # (  </tr>)
-[//]: # (  <tr>)
-[//]: # (    <td style="text-align:center"><img src="assets/img/org-dmitry-kangin-square.jpg" height="150" width="150"></td>)
-[//]: # (    <td style="text-align:center"><img src="assets/img/org-jaeyoung-lee-square.jpg" height="150"  width="150"></td>)
-[//]: # (    <td style="text-align:center"><img src="assets/img/org-haripriya-harikumar-square.jpg" height="150" width="150"></td>    )
-[//]: # (  </tr>)
-[//]: # (  <tr>)
-[//]: # (    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=vv-leaMAAAAJ&hl=en">Dmitry Kangin</a> <br> ELLIS Robust ML program </td>)
-[//]: # (    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=Zh7PeGUAAAAJ&hl=en&oi=sra">Jaeyoung Lee</a> <br>University of Manchester, UK</td>)
-[//]: # (    <td style="text-align:center"><a href="https://scholar.google.com/citations?hl=en&user=50ErN80AAAAJ">Haripriya Harikumar</a> <br>University of Manchester, UK</td>)
-[//]: # (</tr>)
-[//]: # (</table>)
