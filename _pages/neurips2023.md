@@ -34,8 +34,11 @@ We invite the non-archival submissions of abstracts of up to
 addressing the above questions WQ1–WQ3, including the interdiscplnaray fields of AI and scientific discovery set forth. 
 The key dates are as follows.
 
-- Submission deadline: Oct 30th 2026 (anywhere on earth)
-- Author notification: Nov 7th 2026 (anywhere on earth)
+- Submission deadline: <span style="color:red"> tbc </span>
+- Author notification: <span style="color:red"> tbc </span>
+
+[//]: # (Oct 30th 2026 &#40;anywhere on earth&#41;)
+[//]: # (Nov 7th 2026 &#40;anywhere on earth&#41;)
 
 All accepted submissions will be showcased in the poster session.
 
