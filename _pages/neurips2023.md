@@ -28,8 +28,8 @@ Addressing these challenges requires a genuinely interdisciplinary perspective. 
 
 We invite submissions to present on-going works in the forms of abstract or 4 pages manuscript, in the interdiscplnaray fields of AI and scientific discovery set forth. The key dates are as follows.
 
-- Submission deadline: <span style="color:red"> tbc </span> 
-- Author notification: <span style="color:red"> tbc </span>
+- Submission deadline: Oct 30th 2026 (anywhere on earth)
+- Author notification: Nov 7th 2026 (anywhere on earth)
 
 ### **Program Schedule**
 
@@ -98,3 +98,74 @@ We invite submissions to present on-going works in the forms of abstract or 4 pa
     <td style="text-align:center"><a href="https://scholar.google.com/citations?user=WjHjbrwAAAAJ&hl=en">Aldo Faisal</a> <br> Professor, Imperial College London <br> <strong>(tentative)</strong> </td>
   </tr>
 </table>
+
+### **Organising Team**
+
+#### **ELLIS Robust ML program**
+
+<table style="width:100%">
+  <tr>
+    <td style="text-align:center"><img src="assets/img/org-samuel-kaski.jpg" height="150" width="150"></td>
+    <td style="text-align:center"><img src="assets/img/org-chris-holmes.webp" height="170" width="170"></td>
+    <td style="text-align:center"><img src="assets/img/speaker-yee-why-teh-square.png" height="170" width="170"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=uF6H9jMAAAAJ&hl=en">Samuel Kaski</a> <br> Professor <br> Aalto University, Finland <br> University of Manchester, UK </td>
+    <td style="text-align:center"><a href="https://www.stats.ox.ac.uk/people/chris-holmes">Chris Holmes</a> <br> Professor <br> University of Oxford, UK </td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=y-nUzMwAAAAJ&hl=en">Yee Whye Teh</a> <br> Professor <br> University of Manchester, UK </td>
+  </tr>
+</table>
+
+#### **Kaski's Lab (ELLIS Institute Finland; ELLIS Unit Manchester)**
+<table style="width:100%">
+  <tr>
+    <td style="text-align:center"><img src="assets/img/org-haripriya-harikumar-square.jpg" height="150" width="150"></td>
+    <td style="text-align:center"><img src="assets/img/org-dmitry-kangin-square.jpg" height="150" width="150"></td>
+    <td style="text-align:center"><img src="assets/img/org-jaeyoung-lee-square.jpg" height="150"  width="150"></td> 
+  </tr>
+  <tr>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?hl=en&user=50ErN80AAAAJ">Haripriya Harikumar</a> <br> Research Fellow <br> University of Manchester, UK</td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=vv-leaMAAAAJ&hl=en">Dmitry Kangin</a> <br> Research Fellow <br> University of Manchester, UK </td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=Zh7PeGUAAAAJ&hl=en&oi=sra">Jaeyoung Lee</a> <br> Research Fellow <br> University of Manchester, UK</td>
+  </tr>
+</table>
+
+#### **ELLIS Others**
+
+<table style="width:100%">
+  <tr>
+    <td style="text-align:center"><img src="assets/img/speaker-ola-engkvist.jpg" height="170" width="170"></td>
+    <td style="text-align:center"><img src="assets/img/org-magnus-rattray-square.jpg" height="170" width="170"></td>
+    <td style="text-align:center"><img src="assets/img/org-riccardo-de-santi.png" height="170" width="170"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=YJnPv6kAAAAJ&hl=en">Ola Engqvist</a> <br> ELLIS ML for Molecule Discovery program <br> Head Molecular AI, AstraZeneca  </td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=FyB7r1IAAAAJ&hl=en">Magnus Rattray</a> <br> ELLIS Health <br> Professor, University of Manchester, UK </td>
+    <td style="text-align:center"><a href="https://www.riccardodesanti.com">Riccardo De Santi</a> <br> ELLIS Interative Learning and <br> Interventional Representation <br> PhD researcher, ETH Zurich </td>
+  </tr>
+</table>
+
+[//]: # (<table style="width:100%">)
+[//]: # (  <tr>)
+[//]: # (    <td style="text-align:center"><img src="assets/img/org-samuel-kaski.jpg" height="150" width="150"></td>)
+[//]: # (    <td style="text-align:center"><img src="assets/img/speaker-ola-engkvist.jpg" height="170" width="170"></td>)
+[//]: # (    <td style="text-align:center"><img src="assets/img/org-chris-holmes.webp" height="170" width="170"></td>)
+[//]: # (    <td style="text-align:center"><img src="assets/img/speaker-yee-why-teh-square.png" height="170" width="170"></td>)
+[//]: # (  </tr>)
+[//]: # (  <tr>)
+[//]: # (    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=uF6H9jMAAAAJ&hl=en">Samuel Kaski</a> <br> ELLIS Robust ML program </td>)
+[//]: # (    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=YJnPv6kAAAAJ&hl=en">Ola Engqvist</a> <br> ELLIS ML for Molecule Discovery program  </td>)
+[//]: # (    <td style="text-align:center"><a href="https://www.stats.ox.ac.uk/people/chris-holmes">Chris Holmes</a> <br> ELLIS Robust ML program </td>)
+[//]: # (    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=y-nUzMwAAAAJ&hl=en">Yee Whye Teh</a> <br> ELLIS Robust ML program </td>)
+[//]: # (  </tr>)
+[//]: # (  <tr>)
+[//]: # (    <td style="text-align:center"><img src="assets/img/org-dmitry-kangin-square.jpg" height="150" width="150"></td>)
+[//]: # (    <td style="text-align:center"><img src="assets/img/org-jaeyoung-lee-square.jpg" height="150"  width="150"></td>)
+[//]: # (    <td style="text-align:center"><img src="assets/img/org-haripriya-harikumar-square.jpg" height="150" width="150"></td>    )
+[//]: # (  </tr>)
+[//]: # (  <tr>)
+[//]: # (    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=vv-leaMAAAAJ&hl=en">Dmitry Kangin</a> <br> ELLIS Robust ML program </td>)
+[//]: # (    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=Zh7PeGUAAAAJ&hl=en&oi=sra">Jaeyoung Lee</a> <br>University of Manchester, UK</td>)
+[//]: # (    <td style="text-align:center"><a href="https://scholar.google.com/citations?hl=en&user=50ErN80AAAAJ">Haripriya Harikumar</a> <br>University of Manchester, UK</td>)
+[//]: # (</tr>)
+[//]: # (</table>)
