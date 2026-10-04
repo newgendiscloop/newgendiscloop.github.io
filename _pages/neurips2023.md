@@ -74,15 +74,11 @@ All accepted submissions will be showcased in the poster session.
             <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;">Invited talk 4: Anna Scaife <span style="color:blue"> </span> </td>
         </tr>
         <tr>
-            <td style="text-align: center; padding: 4px 8px;"> 15 mins </td>
-            <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;">Invited talk 5: Aldo Faisal <span style="color:red"> </span> </td>
-        </tr>
-        <tr>
             <td style="text-align: center; padding: 4px 8px;"> 10 mins </td>
             <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;"> Lightning talks: the authors of submitted works </td>
         </tr>
         <tr>
-            <td style="text-align: center; padding: 4px 8px;"> 30 mins </td>
+            <td style="text-align: center; padding: 4px 8px;"> 45 mins </td>
             <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;"> Panel (incl. all speakers) discussion </td>
         </tr>
         <tr>
@@ -92,6 +88,11 @@ All accepted submissions will be showcased in the poster session.
     </tbody>
 </table>
 
+[//]: # (        <tr>)
+[//]: # (            <td style="text-align: center; padding: 4px 8px;"> 15 mins </td>)
+[//]: # (            <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;">Invited talk 5: Aldo Faisal <span style="color:red"> </span> </td>)
+[//]: # (        </tr>)
+
 ### **Speakers**
 
 <table style="width:100%">
@@ -100,14 +101,18 @@ All accepted submissions will be showcased in the poster session.
     <td style="text-align:center"><img src="assets/img/speaker-tom-rainforth-square.jpg" height="170" width="170"></td>    
     <td style="text-align:center"><img src="assets/img/speaker-andrew-howes.jpeg" height="170" width="170"></td>
     <td style="text-align:center"><img src="assets/img/speaker-anna_scaife-square.jpg" height="170" width="170"></td>
-    <td style="text-align:center"><img src="assets/img/speaker-aldo-faisal-resize.jpg" height="170" width="170"></td>
+
+[//]: # (    <td style="text-align:center"><img src="assets/img/speaker-aldo-faisal-resize.jpg" height="170" width="170"></td>)
+  
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://scholar.google.com/citations?user=8200InoAAAAJ&hl=fr&oi=sra">Max Welling</a> <br> Professor, University of Amsterdam <br> <strong>[WQ1 & WQ3] </strong> </td>    
     <td style="text-align:center"><a href="https://scholar.google.com/citations?user=ieLRNKMAAAAJ&hl=en">Tom Rainforth</a> <br> Professor, University of Oxford <br> <strong>[WQ1 & WQ2] </strong> </td>    
     <td style="text-align:center"><a href="https://scholar.google.com/citations?user=iswtssoAAAAJ&hl=fr&oi=ao">Andrew Howes</a> <br> Professor, University of Exeter <br> <strong>[WQ3]  </strong> </td>
     <td style="text-align:center"><a href="https://scholar.google.com/citations?user=2BeLFVwAAAAJ&hl=en">Anna Scaife</a> <br> Professor, University of Manchester <br> <strong>[WQ1] </strong> </td>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=WjHjbrwAAAAJ&hl=en">Aldo Faisal</a> <br> Professor, Imperial College London <br> <strong> [WQ1 & WQ2] </strong> </td>
+
+[//]: # (    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=WjHjbrwAAAAJ&hl=en">Aldo Faisal</a> <br> Professor, Imperial College London <br> <strong> [WQ1 & WQ2] </strong> </td>)
+  
   </tr>
 </table>
 
