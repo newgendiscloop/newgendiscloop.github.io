@@ -12,7 +12,7 @@ social: true
 <!-- <td style="text-align:center"><img src="assets/img/workshop-votes.png" height="170"></td> <br />
 <td style="text-align:justify"><a href="https://bit.ly/bugs-orals">Vote Best Oral</a> | <a href="https://bit.ly/bugs-posters">Vote Best Poster</a></td> <br /> -->
 
-**TL;DR** How will the design-build-test-learn loops be run and steered in scientific discovery and development work, given the machine learning advances in generative models, sequential decision making, experimental design, human-AI collaboration, and advances in AI4Science in multiple domains?
+How will the design-build-test-learn loops be run and steered in scientific discovery and development work, given the machine learning advances in generative models, sequential decision making, experimental design, human-AI collaboration, and advances in AI4Science in multiple domains?
 
 ### **Motivation and Scope** 
 Generative model-based solutions have been rapidly transformed from passive tools into active collaborators in human decision-making and discovery. 
@@ -77,7 +77,7 @@ All accepted submissions will be showcased in the poster session.
         </tr>
         <tr>
             <td style="text-align: center; padding: 4px 8px;"> 45 mins </td>
-            <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;"> Panel (incl. all speakers) discussion (incl. QA1 through QA3) </td>
+            <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;"> Panel (incl. all speakers) discussion (incl. WQ1 through WQ3) </td>
         </tr>
         <tr>
             <td style="text-align: center; padding: 4px 8px;"> 2 mins </td>
@@ -137,10 +137,15 @@ All accepted submissions will be showcased in the poster session.
 #### **Other ELLIS Programs**
 
 <table style="width:100%">
-  <tr>
-    <td style="text-align:center"> <img src="assets/img/speaker-ola-engkvist.jpg" height="150" width="150"> <br> ELLIS ML for Molecule <br> Discovery program <br> <br> </td>
-    <td style="text-align:center"><img src="assets/img/org-magnus-rattray-square.jpg" height="150" width="150"> <br> ELLIS Health program <br> <br> <br></td>
-    <td style="text-align:center"><img src="assets/img/org-riccardo-de-santi.png" height="150" width="150"> <br> ELLIS Interative Learning and <br> Interventional Representation <br> program </td>
+    <tr>
+    <td style="text-align:center"> ELLIS ML for Molecule Discovery program</td>
+    <td style="text-align:center"> ELLIS Health program </td>
+    <td style="text-align:center"> ELLIS Interative Learning and Interventional Representation program </td>
+  </tr>  
+    <tr>
+    <td style="text-align:center"><img src="assets/img/speaker-ola-engkvist.jpg" height="150" width="150"> </td>
+    <td style="text-align:center"><img src="assets/img/org-magnus-rattray-square.jpg" height="150" width="150"></td>
+    <td style="text-align:center"><img src="assets/img/org-riccardo-de-santi.jpg" height="150" width="150"> </td>
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://scholar.google.com/citations?user=YJnPv6kAAAAJ&hl=en">Ola Engqvist</a> <br> Head Molecular AI <br> AstraZeneca  </td>
