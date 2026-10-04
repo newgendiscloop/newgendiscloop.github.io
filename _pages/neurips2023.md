@@ -75,7 +75,7 @@ All accepted submissions will be showcased in the poster session.
         </tr>
         <tr>
             <td style="text-align: center; padding: 4px 8px;"> 10 mins </td>
-            <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;"> Lightning talks: the authors of submitted works </td>
+            <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;"> Lightning talks: the authors of accepted submissions </td>
         </tr>
         <tr>
             <td style="text-align: center; padding: 4px 8px;"> 45 mins </td>
@@ -92,17 +92,28 @@ All accepted submissions will be showcased in the poster session.
 
 <table style="width:100%">
   <tr>
-    <td style="text-align:center"><img src="assets/img/speaker-max-welling-square.jpg" height="170" width="170"></td>    
-    <td style="text-align:center"><img src="assets/img/speaker-tom-rainforth-square.jpg" height="170" width="170"></td>    
-    <td style="text-align:center"><img src="assets/img/speaker-andrew-howes.jpeg" height="170" width="170"></td>
-    <td style="text-align:center"><img src="assets/img/speaker-anna_scaife-square.jpg" height="170" width="170"></td>
+    <td style="text-align:center; vertical-align: top">
+        <img src="assets/img/speaker-max-welling-square.jpg" height="170" width="170">
+        <br> <br> <a href="https://scholar.google.com/citations?user=8200InoAAAAJ&hl=fr&oi=sra">Max Welling</a> 
+        <br> Professor <br> University of Amsterdam
+    </td>
+    <td style="text-align:center; vertical-align: top">
+        <img src="assets/img/speaker-tom-rainforth-square.jpg" height="170" width="170">
+        <br> <br> <a href="https://scholar.google.com/citations?user=ieLRNKMAAAAJ&hl=en">Tom Rainforth</a>
+        <br> Professor <br> University of Oxford
+    </td>
+    <td style="text-align:center; vertical-align: top">
+        <img src="assets/img/speaker-andrew-howes.jpeg" height="170" width="170">
+        <br> <br> <a href="https://scholar.google.com/citations?user=iswtssoAAAAJ&hl=fr&oi=ao">Andrew Howes</a> 
+        <br> Professor <br> University of Exeter
+    </td>
+    <td style="text-align:center; vertical-align: top">
+        <img src="assets/img/speaker-anna_scaife-square.jpg" height="170" width="170">
+        <br> <br> <a href="https://scholar.google.com/citations?user=2BeLFVwAAAAJ&hl=en">Anna Scaife</a> 
+        <br> Professor <br> University of Manchester
+    </td>
   </tr>
-  <tr>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=8200InoAAAAJ&hl=fr&oi=sra">Max Welling</a> <br> Professor, University of Amsterdam </td>    
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=ieLRNKMAAAAJ&hl=en">Tom Rainforth</a> <br> Professor, University of Oxford </td>    
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=iswtssoAAAAJ&hl=fr&oi=ao">Andrew Howes</a> <br> Professor, University of Exeter </td>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=2BeLFVwAAAAJ&hl=en">Anna Scaife</a> <br> Professor, University of Manchester </td>
-  </tr>
+  <tr></tr>
 </table>
 
 ### **Organising Team**
@@ -111,29 +122,45 @@ All accepted submissions will be showcased in the poster session.
 
 <table style="width:100%">
   <tr>
-    <td style="text-align:center"><img src="assets/img/org-samuel-kaski.jpg" height="150" width="150"></td>
-    <td style="text-align:center"><img src="assets/img/org-chris-holmes.webp" height="150" width="150"></td>
-    <td style="text-align:center"><img src="assets/img/speaker-yee-why-teh-square.png" height="150" width="150"></td>
+    <td style="text-align:center; vertical-align: top">
+        <img src="assets/img/org-samuel-kaski.jpg" height="150" width="150">
+        <br> <br> <a href="https://scholar.google.com/citations?user=uF6H9jMAAAAJ&hl=en">Samuel Kaski</a> <br> Professor 
+        <br> University of Manchester <br> Aalto University <br> ELLIS Institute Finland
+    </td>
+    <td style="text-align:center; vertical-align: top">
+        <img src="assets/img/org-chris-holmes.webp" height="150" width="150">
+        <br> <br> <a href="https://www.stats.ox.ac.uk/people/chris-holmes">Chris Holmes</a> 
+        <br> Professor <br> University of Oxford <br> The Alan Turing Institute
+    </td>
+    <td style="text-align:center; vertical-align: top">
+        <img src="assets/img/speaker-yee-why-teh-square.png" height="150" width="150">
+        <br> <br> <a href="https://scholar.google.com/citations?user=y-nUzMwAAAAJ&hl=en">Yee Whye Teh</a> 
+        <br> Professor <br> University of Oxford <br> Deepmind
+    </td>
   </tr>
-  <tr>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=uF6H9jMAAAAJ&hl=en">Samuel Kaski</a> <br> Professor <br> University of Manchester <br> Aalto University <br> ELLIS Institute Finland </td>
-    <td style="text-align:center"><a href="https://www.stats.ox.ac.uk/people/chris-holmes">Chris Holmes</a> <br> Professor <br> University of Oxford <br> The Alan Turing Institute </td>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=y-nUzMwAAAAJ&hl=en">Yee Whye Teh</a> <br> Professor <br> University of Oxford <br> Deepmind </td>
-  </tr>
+  <tr></tr>
 </table>
 
 #### **Kaski's Lab** (ELLIS Institute Finland; ELLIS Unit Manchester)
 <table style="width:100%">
   <tr>
-    <td style="text-align:center"><img src="assets/img/org-haripriya-harikumar-square.jpg" height="150" width="150"></td>
-    <td style="text-align:center"><img src="assets/img/org-dmitry-kangin-square.jpg" height="150" width="150"></td>
-    <td style="text-align:center"><img src="assets/img/org-jaeyoung-lee-square.jpg" height="150"  width="150"></td> 
+    <td style="text-align:center; vertical-align: top">
+        <img src="assets/img/org-haripriya-harikumar-square.jpg" height="150" width="150">
+        <br> <br> <a href="https://scholar.google.com/citations?hl=en&user=50ErN80AAAAJ">Haripriya Harikumar</a> 
+        <br> Research Fellow <br> University of Manchester 
+    </td>
+    <td style="text-align:center; vertical-align: top">
+        <img src="assets/img/org-dmitry-kangin-square.jpg" height="150" width="150">
+        <br> <br> <a href="https://scholar.google.com/citations?user=vv-leaMAAAAJ&hl=en">Dmitry Kangin</a> 
+        <br> Research Fellow <br> University of Manchester
+    </td>
+    <td style="text-align:center; vertical-align: top">
+        <img src="assets/img/org-jaeyoung-lee-square.jpg" height="150"  width="150">
+        <br> <br> <a href="https://scholar.google.com/citations?user=Zh7PeGUAAAAJ&hl=en&oi=sra">Jaeyoung Lee</a> 
+        <br> Research Fellow <br> University of Manchester
+    </td>
   </tr>
-  <tr>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?hl=en&user=50ErN80AAAAJ">Haripriya Harikumar</a> <br> Research Fellow <br> University of Manchester </td>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=vv-leaMAAAAJ&hl=en">Dmitry Kangin</a> <br> Research Fellow <br> University of Manchester </td>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=Zh7PeGUAAAAJ&hl=en&oi=sra">Jaeyoung Lee</a> <br> Research Fellow <br> University of Manchester </td>
-  </tr>
+  <tr></tr>
 </table>
 
 #### **Other ELLIS Programs**
@@ -143,15 +170,23 @@ All accepted submissions will be showcased in the poster session.
     <td style="text-align:center; vertical-align: middle"> ELLIS ML for Molecule <br> Discovery program</td>
     <td style="text-align:center; vertical-align: middle"> ELLIS Health program </td>
     <td style="text-align:center; vertical-align: middle"> ELLIS Interative Learning & <br> Interventional Repr. prog. </td>
-  </tr>  
-  <tr>
-    <td style="text-align:center"><img src="assets/img/speaker-ola-engkvist.jpg" height="150" width="150"> </td>
-    <td style="text-align:center"><img src="assets/img/org-magnus-rattray-square.jpg" height="150" width="150"></td>
-    <td style="text-align:center"><img src="assets/img/org-riccardo-de-santi.jpg" height="150" width="150"> </td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=YJnPv6kAAAAJ&hl=en">Ola Engqvist</a> <br> Head Molecular AI <br> AstraZeneca <br> Chalmers Univ. of Tech.  </td>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=FyB7r1IAAAAJ&hl=en">Magnus Rattray</a> <br> Professor <br> University of Manchester </td>
-    <td style="text-align:center"><a href="https://www.riccardodesanti.com">Riccardo De Santi</a> <br> PhD researcher <br> ETH Zurich </td>
+    <td style="text-align:center; vertical-align: top; border: none">
+        <img src="assets/img/speaker-ola-engkvist.jpg" height="150" width="150">
+        <br> <br> <a href="https://scholar.google.com/citations?user=YJnPv6kAAAAJ&hl=en">Ola Engqvist</a> 
+        <br> Head Molecular AI <br> AstraZeneca <br> Chalmers Univ. of Tech.
+    </td>
+    <td style="text-align:center; vertical-align: top; border: none">
+        <img src="assets/img/org-magnus-rattray-square.jpg" height="150" width="150">
+        <br> <br> <a href="https://scholar.google.com/citations?user=FyB7r1IAAAAJ&hl=en">Magnus Rattray</a> 
+        <br> Professor <br> University of Manchester
+    </td>
+    <td style="text-align:center; vertical-align: top; border: none">
+        <img src="assets/img/org-riccardo-de-santi.jpg" height="150" width="150">
+        <br> <br> <a href="https://www.riccardodesanti.com">Riccardo De Santi</a> 
+        <br> PhD researcher <br> ETH Zurich 
+    </td>
   </tr>
+  <tr></tr>
 </table>
