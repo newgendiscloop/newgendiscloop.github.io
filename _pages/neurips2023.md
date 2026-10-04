@@ -20,7 +20,9 @@ AI-powered Design-Build-Test-Learn (DBTL) loops already generate hypotheses and 
 The challenge is no longer in merely introducing or improving stand-alone AI models to improve efficiency of these individual DBTL stages, but in building a new generation of discovery loops. 
 In the loops, AI *actively and adaptively* collaborates with the human decision maker under uncertainty, in order to optimise, automate, and coordinate together the *whole* iterative DBTL discovery process, requiring an interplay of several machine learning angles: generative modelling, sequential decision-making and experimental design, human–AI collaboration, and advances in AI for science across domains.
 
-To be more specific, our workshop will focus on how generative models and AI-for-science capabilities can best be coupled with adaptive experimentation and human steering to optimise, automate, and coordinate complete DBTL discovery processes. Questions to be addressed in the workshop include: 
+To be more specific, our workshop will focus on how generative models and AI-for-science capabilities can best be coupled with 
+adaptive experimentation and human steering to optimise, automate, and coordinate complete DBTL discovery processes. 
+Workshop Questions (WQs) to be addressed include: 
 - **WQ1.** How can generative models be directed towards useful novel hypotheses, among the massive number of alternatives? 
 - **WQ2.** Generalizing automatic experimental design to be effective with misspecified models and for maximizing downstream utilities 
 - **WQ3.** How can the AI help the scientist steer when they cannot yet specify the goal themselves? All this needs to be done under uncertainty, and connected to existing models while improving them based on collected new evidence.
@@ -105,7 +107,7 @@ All accepted submissions will be showcased in the poster session.
 
 ### **Organising Team**
 
-#### **ELLIS Robust ML program**
+#### **ELLIS Robust ML Program**
 
 <table style="width:100%">
   <tr>
@@ -137,12 +139,12 @@ All accepted submissions will be showcased in the poster session.
 #### **Other ELLIS Programs**
 
 <table style="width:100%">
-    <tr>
-    <td style="text-align:center"> ELLIS ML for Molecule <br> Discovery program</td>
-    <td style="text-align:center"> ELLIS Health program </td>
-    <td style="text-align:center"> ELLIS Interative Learning and <br> Interventional Repr. program </td>
+  <tr>
+    <td style="text-align:center; vertical-align: middle"> ELLIS ML for Molecule <br> Discovery program</td>
+    <td style="text-align:center; vertical-align: middle"> ELLIS Health program </td>
+    <td style="text-align:center; vertical-align: middle"> ELLIS Interative Learning & <br> Interventional Repr. prog. </td>
   </tr>  
-    <tr>
+  <tr>
     <td style="text-align:center"><img src="assets/img/speaker-ola-engkvist.jpg" height="150" width="150"> </td>
     <td style="text-align:center"><img src="assets/img/org-magnus-rattray-square.jpg" height="150" width="150"></td>
     <td style="text-align:center"><img src="assets/img/org-riccardo-de-santi.jpg" height="150" width="150"> </td>
