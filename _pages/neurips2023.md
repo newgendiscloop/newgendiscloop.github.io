@@ -120,7 +120,7 @@ All accepted submissions will be showcased in the poster session.
   </tr>
 </table>
 
-#### **Kaski's Lab (ELLIS Institute Finland; ELLIS Unit Manchester)**
+#### **Kaski's Lab** (ELLIS Institute Finland; ELLIS Unit Manchester)
 <table style="width:100%">
   <tr>
     <td style="text-align:center"><img src="assets/img/org-haripriya-harikumar-square.jpg" height="150" width="150"></td>
