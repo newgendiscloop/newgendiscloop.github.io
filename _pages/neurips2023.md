@@ -79,7 +79,7 @@ All accepted submissions will be showcased in the poster session.
         </tr>
         <tr>
             <td style="text-align: center; padding: 4px 8px;"> 45 mins </td>
-            <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;"> Panel (incl. all speakers) discussion </td>
+            <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;"> Panel (incl. all speakers) discussion (incl. QA1 through QA3) </td>
         </tr>
         <tr>
             <td style="text-align: center; padding: 4px 8px;"> 2 mins </td>
