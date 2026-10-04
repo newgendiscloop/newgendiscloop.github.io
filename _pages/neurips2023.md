@@ -103,11 +103,11 @@ All accepted submissions will be showcased in the poster session.
     <td style="text-align:center"><img src="assets/img/speaker-aldo-faisal-resize.jpg" height="170" width="170"></td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=8200InoAAAAJ&hl=fr&oi=sra">Max Welling</a> <br> Professor, University of Amsterdam <br> <strong>[WQ1 & WQ3] <br> (confirmed)</strong> </td>    
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=ieLRNKMAAAAJ&hl=en">Tom Rainforth</a> <br> Professor, University of Oxford <br> <strong>[WQ1 & WQ2] <br> (confirmed)</strong> </td>    
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=iswtssoAAAAJ&hl=fr&oi=ao">Andrew Howes</a> <br> Professor, University of Exeter <br> <strong>[WQ3] <br> (confirmed) </strong> </td>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=2BeLFVwAAAAJ&hl=en">Anna Scaife</a> <br> Professor, University of Manchester <br> <strong>[WQ1] <br> (confirmed)</strong> </td>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=WjHjbrwAAAAJ&hl=en">Aldo Faisal</a> <br> Professor, Imperial College London <br> <strong> [WQ1 & WQ2] <br> (tentative)</strong> </td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=8200InoAAAAJ&hl=fr&oi=sra">Max Welling</a> <br> Professor, University of Amsterdam <br> <strong>[WQ1 & WQ3] </strong> </td>    
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=ieLRNKMAAAAJ&hl=en">Tom Rainforth</a> <br> Professor, University of Oxford <br> <strong>[WQ1 & WQ2] </strong> </td>    
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=iswtssoAAAAJ&hl=fr&oi=ao">Andrew Howes</a> <br> Professor, University of Exeter <br> <strong>[WQ3]  </strong> </td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=2BeLFVwAAAAJ&hl=en">Anna Scaife</a> <br> Professor, University of Manchester <br> <strong>[WQ1] </strong> </td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=WjHjbrwAAAAJ&hl=en">Aldo Faisal</a> <br> Professor, Imperial College London <br> <strong> [WQ1 & WQ2] </strong> </td>
   </tr>
 </table>
 
