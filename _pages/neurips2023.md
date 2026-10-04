@@ -77,7 +77,7 @@ All accepted submissions will be showcased in the poster session.
         </tr>
         <tr>
             <td style="text-align: center; padding: 4px 8px;"> 45 mins </td>
-            <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;"> Panel (incl. all speakers) discussion (incl. WQ1 through WQ3) </td>
+            <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;"> Panel discussion with speakers </td>
         </tr>
         <tr>
             <td style="text-align: center; padding: 4px 8px;"> 2 mins </td>
@@ -116,7 +116,7 @@ All accepted submissions will be showcased in the poster session.
   <tr>
     <td style="text-align:center"><a href="https://scholar.google.com/citations?user=uF6H9jMAAAAJ&hl=en">Samuel Kaski</a> <br> Professor <br> Aalto University; <br> University of Manchester </td>
     <td style="text-align:center"><a href="https://www.stats.ox.ac.uk/people/chris-holmes">Chris Holmes</a> <br> Professor <br> University of Oxford </td>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=y-nUzMwAAAAJ&hl=en">Yee Whye Teh</a> <br> Professor <br> University of Manchester </td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=y-nUzMwAAAAJ&hl=en">Yee Whye Teh</a> <br> Professor <br> University of Oxford </td>
   </tr>
 </table>
 
