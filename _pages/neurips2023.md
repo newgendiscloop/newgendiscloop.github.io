@@ -36,8 +36,8 @@ emerging ideas, or position papers related to Workshop Questions WQ1–WQ3,
 including topics at the intersection of AI and scientific discovery. 
 The key dates are listed below.
 
-- Submission deadline: <span style="color:red"> [tentative] </span> Oct 30th 2026 (anywhere on earth) 
-- Author notification: <span style="color:red"> [tentative] </span> Nov 7th 2026 (anywhere on earth)
+- Submission deadline: Oct 30th 2026 (anywhere on earth) 
+- Author notification: Nov 7th 2026 (anywhere on earth)
 
 All accepted submissions will be showcased in the poster session.
 
