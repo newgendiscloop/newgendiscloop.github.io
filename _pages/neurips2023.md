@@ -138,9 +138,9 @@ All accepted submissions will be showcased in the poster session.
 
 <table style="width:100%">
     <tr>
-    <td style="text-align:center"> ELLIS ML for Molecule Discovery program</td>
+    <td style="text-align:center"> ELLIS ML for Molecule <br> Discovery program</td>
     <td style="text-align:center"> ELLIS Health program </td>
-    <td style="text-align:center"> ELLIS Interative Learning and Interventional Representation program </td>
+    <td style="text-align:center"> ELLIS Interative Learning and <br> Interventional Repr. program </td>
   </tr>  
     <tr>
     <td style="text-align:center"><img src="assets/img/speaker-ola-engkvist.jpg" height="150" width="150"> </td>
