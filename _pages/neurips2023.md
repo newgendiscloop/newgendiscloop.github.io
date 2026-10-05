@@ -36,16 +36,9 @@ can inform generative proposals and their evaluation, and how experimental evide
 refine these models and steer subsequent generation and experimentation. This workshop will bring together researchers working on 
 generative modelling, interactive learning, reinforcement learning, AI for Science, robust machine learning, 
 experimental design, human-centred AI, and computational rationality, for AI-assisted discovery. 
-In particular, it will foster dialogue across multiple ELLIS Research Programmes, including 
-
-- *Interactive Learning and Interventional Representations*
-- *Human-centric Machine Learning*
-- *Robust Machine Learning*
- 
-while engaging closely with application-linked communities such as 
-- *ELLIS Health*
-- *Machine Learning for Earth and Climate Sciences*
-- *Machine Learning for Molecule Discovery*. 
+In particular, it will foster dialogue across multiple ELLIS Research Programmes, including *Interactive Learning and Interventional Representations*,
+*Human-centric Machine Learning*, and *Robust Machine Learning* while engaging closely with application-linked communities such as 
+*ELLIS Health*, *Machine Learning for Earth and Climate Sciences*, and *Machine Learning for Molecule Discovery*. 
 
 ### **Call for Abstracts/Papers**
 
@@ -71,17 +64,17 @@ for AI-assisted discovery and development. We welcome methodological and applica
 The review process is double-blind, submissions must be anonymised.
 Submissions should be either 
 
-1. Abstracts (up to 500 words), or
-2. Short papers (up to 4 pages), presenting preliminary results or emerging ideas. 
+1. **Abstracts** (up to 500 words), or
+2. **Short papers** (up to 4 pages), presenting preliminary results or emerging ideas. 
 
 with unlimited references and optional appendices; 
 paper will be judged by the merits of the main text. 
 Please use our <a href="assets/template/Formatting_Instructions_For_NGDL_ELLIS_UnConference_2026.zip">modified NeurIPS 2026 LaTeX template</a>, 
 where no NeurIPS checklist is required, and submit the anonymised draft via
 
-**The submission web site:** ELLIS 2026 Workshop NGDL.
+* **The submission website:** <a href="https://openreview.net/group?id=ELLIS/2026/Workshop/NGDL&referrer=%5BHomepage%5D(%2F)#tab-your-consoles">ELLIS 2026 Workshop NGDL</a>.
 
-**Important dates**
+The key dates are given as follows.
 
 - **Submission deadline:** 30th October  2026 (anywhere on earth) 
 - **Author notification:** 7th November  2026 (anywhere on earth)
@@ -91,9 +84,8 @@ where no NeurIPS checklist is required, and submit the anonymised draft via
 
 All accepted submissions will be showcased in the poster session, 
 and three selected contributions will be invited to give lightning talks. 
-
-- For any questions, please reach out to: <a href="newgendiscloop@gmail.com">newgendiscloop@gmail.com</a>
-- More details of the event, please check <a href="https://ellis.eu/events/ellis-unconference-2026">ELLIS UnConference 2026</a>. 
+For any questions, please reach out to: <a href="newgendiscloop@gmail.com">newgendiscloop@gmail.com</a>; 
+for more details of the event, please check <a href="https://ellis.eu/events/ellis-unconference-2026">ELLIS UnConference 2026</a>. 
 
 ### **Program Schedule**
 
