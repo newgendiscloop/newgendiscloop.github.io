@@ -2,7 +2,7 @@
 layout: home
 order: 1
 permalink: /
-title: ELLIS Unconference 2026
+title: ELLIS UnConference 2026
 # redirect_from: /index.html
 desc_title: <strong>Next Generation of Discovery Loops</strong> 
 description:  
@@ -31,7 +31,7 @@ All this needs to be done under uncertainty, and connected to existing models wh
 
 Addressing these challenges requires a genuinely interdisciplinary perspective. Drawing on advances in both subfields of machine learning and AI for science across molecule discovery, health, and astronomy, the workshop will examine how domain-specific scientific models, computational tools, and automated experimentation can inform generative proposals and their evaluation, and how experimental evidence and researcher's feedback can, in turn, refine these models and steer subsequent generation and experimentation. This workshop will bring together researchers working on generative modelling, interactive learning, reinforcement learning, AI for science, robust machine learning, experimental design, human-centred AI, and computational rationality, for AI-assisted discovery. In particular, it will foster dialogue across multiple ELLIS Research Programmes, including *Interactive Learning and Interventional Representations*, *Human-centric Machine Learning*, and *Robust Machine Learning*, while engaging closely with application-linked communities such as *ELLIS Health*, *Machine Learning for Earth and Climate Sciences*, and *Machine Learning for Molecule Discovery*. 
 
-### **Call For Papers**
+### **Call for Abstracts/Papers**
 
 We invite non-archival submissions 
 in the form of extended abstracts (up to 500 words) or 
@@ -45,7 +45,11 @@ The key dates and the venue are listed below.
 - **Workshop date:** 8th December 2026
 - **Venue:** Palais des Congrès de Paris, Paris, France.
 
-All accepted submissions will be showcased in the poster session. More details of the event, please check <a href=https://ellis.eu/events/ellis-unconference-2026>ELLIS UnConference 2026</a>.
+All accepted submissions will be showcased in the poster session, with the top 3 selected for lightning talks.
+We will share our submission portal and paper format details soon.
+
+- For any questions, please reach out to: <a href="newgendiscloop@gmail.com">newgendiscloop@gmail.com</a>
+- More details of the event, please check <a href="https://ellis.eu/events/ellis-unconference-2026">ELLIS UnConference 2026</a>. 
 
 ### **Program Schedule**
 
@@ -91,7 +95,7 @@ All accepted submissions will be showcased in the poster session. More details o
         </tr>
     </tbody>
 </table>
-The time to start the schedule will be announced later.
+The schedule will be allocated within the workshop date (8th Dec) but to be announced later.
 
 ### **Speakers**
 
