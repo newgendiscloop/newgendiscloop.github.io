@@ -79,7 +79,7 @@ All accepted submissions will be showcased in the poster session. More details o
         </tr>
         <tr>
             <td style="text-align: center; padding: 4px 8px;"> 10 mins </td>
-            <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;"> Lightning talks: the authors of accepted submissions </td>
+            <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;"> Lightning talks: the authors of the three top accepted submissions </td>
         </tr>
         <tr>
             <td style="text-align: center; padding: 4px 8px;"> 45 mins </td>
