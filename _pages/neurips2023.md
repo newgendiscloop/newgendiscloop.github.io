@@ -24,29 +24,74 @@ To be more specific, our workshop will focus on how generative models and AI-for
 adaptive experimentation and human steering to optimise, automate, and coordinate complete DBTL discovery processes. 
 Workshop Questions (WQs) to be addressed include: 
 - **WQ1.** How can generative models be directed towards useful novel hypotheses, among the massive number of alternatives? 
-- **WQ2.** Generalizing automatic experimental design to be effective with misspecified models and for maximizing downstream utilities 
+- **WQ2.** How can automatic experimental design be generalised to remain effective under model misspecification and to maximise downstream utility? 
 - **WQ3.** How can the AI help the scientist steer when they cannot yet specify the goal themselves?
 
 All this needs to be done under uncertainty, and connected to existing models while improving them based on collected new evidence. 
 
-Addressing these challenges requires a genuinely interdisciplinary perspective. Drawing on advances in both subfields of machine learning and AI for science across molecule discovery, health, and astronomy, the workshop will examine how domain-specific scientific models, computational tools, and automated experimentation can inform generative proposals and their evaluation, and how experimental evidence and researcher's feedback can, in turn, refine these models and steer subsequent generation and experimentation. This workshop will bring together researchers working on generative modelling, interactive learning, reinforcement learning, AI for science, robust machine learning, experimental design, human-centred AI, and computational rationality, for AI-assisted discovery. In particular, it will foster dialogue across multiple ELLIS Research Programmes, including *Interactive Learning and Interventional Representations*, *Human-centric Machine Learning*, and *Robust Machine Learning*, while engaging closely with application-linked communities such as *ELLIS Health*, *Machine Learning for Earth and Climate Sciences*, and *Machine Learning for Molecule Discovery*. 
+Addressing these challenges requires a genuinely interdisciplinary perspective. 
+Drawing on advances in both subfields of machine learning and AI for science across molecule discovery, health, and astronomy, 
+the workshop will examine how domain-specific scientific models, computational tools, and automated experimentation 
+can inform generative proposals and their evaluation, and how experimental evidence and researcher's feedback can, in turn, 
+refine these models and steer subsequent generation and experimentation. This workshop will bring together researchers working on 
+generative modelling, interactive learning, reinforcement learning, AI for Science, robust machine learning, 
+experimental design, human-centred AI, and computational rationality, for AI-assisted discovery. 
+In particular, it will foster dialogue across multiple ELLIS Research Programmes, including 
+
+- *Interactive Learning and Interventional Representations*
+- *Human-centric Machine Learning*
+- *Robust Machine Learning*
+ 
+while engaging closely with application-linked communities such as 
+- *ELLIS Health*
+- *Machine Learning for Earth and Climate Sciences*
+- *Machine Learning for Molecule Discovery*. 
 
 ### **Call for Abstracts/Papers**
 
-We invite non-archival submissions 
-in the form of extended abstracts (up to 500 words) or 
-short papers (up to 4 pages) presenting preliminary results, 
-emerging ideas, or position papers related to Workshop Questions WQ1–WQ3, 
-including topics at the intersection of AI and scientific discovery. 
-The key dates and the venue are listed below.
+We invite non-archival submissions related to Workshop Questions WQ1–WQ3. Relevant areas include 
+
+- generative modelling
+- interactive learning
+- reinforcement learning
+- AI for Science
+- robust machine learning
+- experimental design
+- human-centred AI
+- computational rationality, 
+
+for AI-assisted discovery and development. We welcome methodological and application-focused contributions from 
+
+- molecular discovery
+- health
+- astronomy
+- Earth and climate sciences
+- other scientific domains.
+
+The submission web site: ELLIS 2026 Workshop NGDL.
+
+The review process is double-blind, submissions must be anonymised.
+Submissions should be either 
+
+1. Abstracts (up to 500 words), or
+2. Short papers (up to 4 pages), presenting preliminary results or emerging ideas. 
+
+with unlimited references and optional appendices; 
+paper will be judged by the merits of the main text. 
+Please use our modified NeurIPS 2026 LaTeX template, where no NeurIPS checklist is required, and submit the draft via
+
+**The submission web site:** ELLIS 2026 Workshop NGDL.
+
+**Important dates**
 
 - **Submission deadline:** 30th October  2026 (anywhere on earth) 
 - **Author notification:** 7th November  2026 (anywhere on earth)
 - **Workshop date:** 8th December 2026
-- **Venue:** Palais des Congrès de Paris, Paris, France.
+ 
+**Venue:** Palais des Congrès de Paris, Paris, France, in conjunction with <a href="https://ellis.eu/events/ellis-unconference-2026">ELLIS UnConference 2026</a>. 
 
-All accepted submissions will be showcased in the poster session, with the top 3 selected for lightning talks.
-We will share our submission portal and paper format details soon.
+All accepted submissions will be showcased in the poster session, 
+and three selected contributions will be invited to give lightning talks. 
 
 - For any questions, please reach out to: <a href="newgendiscloop@gmail.com">newgendiscloop@gmail.com</a>
 - More details of the event, please check <a href="https://ellis.eu/events/ellis-unconference-2026">ELLIS UnConference 2026</a>. 
