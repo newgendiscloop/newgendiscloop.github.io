@@ -68,8 +68,6 @@ for AI-assisted discovery and development. We welcome methodological and applica
 - Earth and climate sciences
 - other scientific domains.
 
-The submission web site: ELLIS 2026 Workshop NGDL.
-
 The review process is double-blind, submissions must be anonymised.
 Submissions should be either 
 
@@ -78,7 +76,8 @@ Submissions should be either
 
 with unlimited references and optional appendices; 
 paper will be judged by the merits of the main text. 
-Please use our modified NeurIPS 2026 LaTeX template, where no NeurIPS checklist is required, and submit the draft via
+Please use our <a href="assets/template/Formatting_Instructions_For_NGDL_ELLIS_UnConference_2026.zip">modified NeurIPS 2026 LaTeX template</a>, 
+where no NeurIPS checklist is required, and submit the anonymised draft via
 
 **The submission web site:** ELLIS 2026 Workshop NGDL.
 
