@@ -72,7 +72,7 @@ paper will be judged by the merits of the main text.
 Please use our <a href="assets/template/Formatting_Instructions_For_NGDL_ELLIS_UnConference_2026.zip">modified NeurIPS 2026 LaTeX template</a>, 
 where no NeurIPS checklist is required, and submit the anonymised draft via
 
-* **The submission website:** <a href="https://openreview.net/group?id=ELLIS/2026/Workshop/NGDL&referrer=%5BHomepage%5D(%2F)#tab-your-consoles">ELLIS 2026 Workshop NGDL</a>.
+* **Submission website:** <a href="https://openreview.net/group?id=ELLIS/2026/Workshop/NGDL&referrer=%5BHomepage%5D(%2F)#tab-your-consoles">ELLIS 2026 Workshop NGDL</a> (OpenReview).
 
 The key dates are given as follows.
 
@@ -119,7 +119,7 @@ for more details of the event, please check <a href="https://ellis.eu/events/ell
         </tr>
         <tr>
             <td style="text-align: center; padding: 4px 8px;"> 10 mins </td>
-            <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;"> Lightning talks: the authors of the three top accepted submissions </td>
+            <td style="text-align: left; padding: 4px 8px; border-left: 1px solid black;"> Lightning talks: the authors of the three selected contributions </td>
         </tr>
         <tr>
             <td style="text-align: center; padding: 4px 8px;"> 45 mins </td>
