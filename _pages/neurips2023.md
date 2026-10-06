@@ -20,7 +20,7 @@ AI-powered Design-Build-Test-Learn (DBTL) loops already generate hypotheses and 
 The challenge is no longer in merely introducing or improving stand-alone AI models to improve efficiency of these individual DBTL stages, but in building a new generation of discovery loops. 
 In the loops, AI *actively and adaptively* collaborates with the human decision maker under uncertainty, in order to optimise, automate, and coordinate together the *whole* iterative DBTL discovery process, requiring an interplay of several machine learning angles: generative modelling, sequential decision-making and experimental design, human–AI collaboration, and advances in AI for science across domains.
 
-To be more specific, our workshop will focus on how generative models and AI-for-science capabilities can best be coupled with 
+To be more specific, our workshop will focus on how generative models and AI-for-Science capabilities can best be coupled with 
 adaptive experimentation and human steering to optimise, automate, and coordinate complete DBTL discovery processes. 
 Workshop Questions (WQs) to be addressed include: 
 - **WQ1.** How can generative models be directed towards useful novel hypotheses, among the massive number of alternatives? 
@@ -33,9 +33,9 @@ Addressing these challenges requires a genuinely interdisciplinary perspective.
 Drawing on advances in both subfields of machine learning and AI for science across molecule discovery, health, and astronomy, 
 the workshop will examine how domain-specific scientific models, computational tools, and automated experimentation 
 can inform generative proposals and their evaluation, and how experimental evidence and researcher's feedback can, in turn, 
-refine these models and steer subsequent generation and experimentation. This workshop will bring together researchers working on 
+refine these models and steer subsequent rounds of generation and experimentation. This workshop will bring together researchers working on 
 generative modelling, interactive learning, reinforcement learning, AI for Science, robust machine learning, 
-experimental design, human-centred AI, and computational rationality, for AI-assisted discovery. 
+experimental design, human-centred AI, and computational rationality, for AI-assisted discovery and development. 
 In particular, it will foster dialogue across multiple ELLIS Research Programmes, including *Interactive Learning and Interventional Representations*,
 *Human-centric Machine Learning*, and *Robust Machine Learning* while engaging closely with application-linked communities such as 
 *ELLIS Health*, *Machine Learning for Earth and Climate Sciences*, and *Machine Learning for Molecule Discovery*. 
