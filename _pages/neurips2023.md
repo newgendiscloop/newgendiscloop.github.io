@@ -40,53 +40,6 @@ In particular, it will foster dialogue across multiple ELLIS Research Programmes
 *Human-centric Machine Learning*, and *Robust Machine Learning* while engaging closely with application-linked communities such as 
 *ELLIS Health*, *Machine Learning for Earth and Climate Sciences*, and *Machine Learning for Molecule Discovery*. 
 
-### **Call for Abstracts/Papers**
-
-We invite non-archival submissions related to Workshop Questions WQ1–WQ3. Relevant areas include 
-
-- Generative modelling
-- Interactive learning
-- Reinforcement learning
-- AI for Science
-- Robust machine learning
-- Experimental design
-- Human-centred AI
-- Computational rationality, 
-
-for AI-assisted discovery and development. We welcome methodological and application-focused contributions from 
-
-- Molecular discovery
-- Health
-- Astronomy
-- Earth and climate sciences
-- Other scientific domains.
-
-The review process is double-blind, submissions must be anonymised.
-Submissions should be either 
-
-1. **Abstracts** (up to 500 words), or
-2. **Short papers** (up to 4 pages), presenting preliminary results or emerging ideas. 
-
-with unlimited references and optional appendices; 
-paper will be judged by the merits of the main text. 
-Please use our <a href="assets/template/Formatting_Instructions_For_NGDL_ELLIS_UnConference_2026.zip">modified NeurIPS 2026 LaTeX template</a>, 
-where no NeurIPS checklist is required, and submit the anonymised draft via
-
-* **Submission website:** <a href="https://openreview.net/group?id=ELLIS/2026/Workshop/NGDL&referrer=%5BHomepage%5D(%2F)#tab-your-consoles">ELLIS 2026 Workshop NGDL</a> (OpenReview).
-
-The key dates are given as follows.
-
-- **Submission deadline:** 30th October  2026 (anywhere on earth) 
-- **Author notification:** 7th November  2026 (anywhere on earth)
-- **Workshop date:** 8th December 2026
- 
-**Venue:** Palais des Congrès de Paris, Paris, France, in conjunction with <a href="https://ellis.eu/events/ellis-unconference-2026">ELLIS UnConference 2026</a>. 
-
-All accepted submissions will be showcased in the poster session, 
-and three selected contributions will be invited to give lightning talks. 
-For any questions, please reach out to: <a href="newgendiscloop@gmail.com">newgendiscloop@gmail.com</a>; 
-for more details of the event, please check <a href="https://ellis.eu/events/ellis-unconference-2026">ELLIS UnConference 2026</a>. 
-
 ### **Program Schedule**
 
 <table style="border-collapse: collapse; width: 100%; border-top: 2px solid black; border-bottom: 2px solid black;">
@@ -160,6 +113,53 @@ The schedule will be allocated within the workshop date (8th Dec) but to be anno
   </tr>
   <tr></tr>
 </table>
+
+### **Call for Submissions**
+
+We invite non-archival submissions related to Workshop Questions WQ1–WQ3. Relevant areas include 
+
+- Generative modelling
+- Interactive learning
+- Reinforcement learning
+- AI for Science
+- Robust machine learning
+- Experimental design
+- Human-centred AI
+- Computational rationality, 
+
+for AI-assisted discovery and development. We welcome methodological and application-focused contributions from 
+
+- Molecular discovery
+- Health
+- Astronomy
+- Earth and climate sciences
+- Other scientific domains.
+
+The review process is double-blind, submissions must be anonymised.
+Submissions should be either 
+
+1. **Abstracts** (up to 500 words), or
+2. **Short papers** (up to 4 pages), presenting preliminary results or emerging ideas. 
+
+with unlimited references and optional appendices; 
+paper will be judged by the merits of the main text. 
+Please use our <a href="assets/template/Formatting_Instructions_For_NGDL_ELLIS_UnConference_2026.zip">modified NeurIPS 2026 LaTeX template</a>, 
+where no NeurIPS checklist is required, and submit the anonymised draft via
+
+* **Submission website:** <a href="https://openreview.net/group?id=ELLIS/2026/Workshop/NGDL&referrer=%5BHomepage%5D(%2F)#tab-your-consoles">ELLIS 2026 Workshop NGDL</a> (OpenReview).
+
+The key dates are given as follows.
+
+- **Submission deadline:** 30th October  2026 (anywhere on earth) 
+- **Author notification:** 7th November  2026 (anywhere on earth)
+- **Workshop date:** 8th December 2026
+ 
+**Venue:** Palais des Congrès de Paris, Paris, France, in conjunction with <a href="https://ellis.eu/events/ellis-unconference-2026">ELLIS UnConference 2026</a>. 
+
+All accepted submissions will be showcased in the poster session, 
+and three selected contributions will be invited to give lightning talks. 
+For any questions, please reach out to: <a href="newgendiscloop@gmail.com">newgendiscloop@gmail.com</a>; 
+for more details of the event, please check <a href="https://ellis.eu/events/ellis-unconference-2026">ELLIS UnConference 2026</a>. 
 
 ### **Organising Team**
 
