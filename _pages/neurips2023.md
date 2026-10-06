@@ -44,22 +44,22 @@ In particular, it will foster dialogue across multiple ELLIS Research Programmes
 
 We invite non-archival submissions related to Workshop Questions WQ1–WQ3. Relevant areas include 
 
-- generative modelling
-- interactive learning
-- reinforcement learning
+- Generative modelling
+- Interactive learning
+- Reinforcement learning
 - AI for Science
-- robust machine learning
-- experimental design
-- human-centred AI
-- computational rationality, 
+- Robust machine learning
+- Experimental design
+- Human-centred AI
+- Computational rationality, 
 
 for AI-assisted discovery and development. We welcome methodological and application-focused contributions from 
 
-- molecular discovery
-- health
-- astronomy
+- Molecular discovery
+- Health
+- Astronomy
 - Earth and climate sciences
-- other scientific domains.
+- Other scientific domains.
 
 The review process is double-blind, submissions must be anonymised.
 Submissions should be either 
