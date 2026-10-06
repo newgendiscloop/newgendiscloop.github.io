@@ -114,6 +114,8 @@ The schedule will be allocated within the workshop date (8th Dec) but to be anno
   <tr></tr>
 </table>
 
+### **Panel Discussion: TBC** 
+
 ### **Call for Submissions**
 
 We invite non-archival submissions related to Workshop Questions WQ1–WQ3. Relevant areas include 
@@ -143,11 +145,12 @@ Submissions should be either
 
 with unlimited references and optional appendices; 
 paper will be judged by the merits of the main text. 
-Please use our <a href="assets/template/Formatting_Instructions_For_NGDL_ELLIS_UnConference_2026.zip">modified NeurIPS 2026 LaTeX template</a>, 
-where no NeurIPS checklist is required, and submit the anonymised draft via
+Please and submit the anonymised draft via
 
 * **Submission website:** <a href="https://openreview.net/group?id=ELLIS/2026/Workshop/NGDL&referrer=%5BHomepage%5D(%2F)#tab-your-consoles">ELLIS 2026 Workshop NGDL</a> (OpenReview).
 
+We will announce the submission paper format details soon. All accepted submissions will be showcased in the poster session, 
+and three selected contributions will be invited to give lightning talks. 
 The key dates are given as follows.
 
 - **Submission deadline:** 30th October  2026 (anywhere on earth) 
@@ -156,8 +159,6 @@ The key dates are given as follows.
  
 **Venue:** Palais des Congrès de Paris, Paris, France, in conjunction with <a href="https://ellis.eu/events/ellis-unconference-2026">ELLIS UnConference 2026</a>. 
 
-All accepted submissions will be showcased in the poster session, 
-and three selected contributions will be invited to give lightning talks. 
 For any questions, please reach out to: <a href="newgendiscloop@gmail.com">newgendiscloop@gmail.com</a>; 
 for more details of the event, please check <a href="https://ellis.eu/events/ellis-unconference-2026">ELLIS UnConference 2026</a>. 
 
