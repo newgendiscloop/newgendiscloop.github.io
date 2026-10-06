@@ -25,7 +25,7 @@ adaptive experimentation and human steering to optimise, automate, and coordinat
 Workshop Questions (WQs) to be addressed include: 
 - **WQ1.** How can generative models be directed towards useful novel hypotheses, among the massive number of alternatives? 
 - **WQ2.** How can automatic experimental design be generalised to remain effective under model misspecification and to maximise downstream utility? 
-- **WQ3.** How can the AI help the scientist steer when they cannot yet specify the goal themselves?
+- **WQ3.** How can AI help scientists steer when they cannot yet fully specify the goal themselves?
 
 All this needs to be done under uncertainty, and connected to existing models while improving them based on collected new evidence. 
 
